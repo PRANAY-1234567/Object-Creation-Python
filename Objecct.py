@@ -11,7 +11,6 @@ class Person:
         print("Name   :", self.name)
         print("Age    :", self.age)
 
-
 # Main program (same as ObjectCreation)
 p = Person()   # object creation
 p.setInfo("Akshay", 26)
