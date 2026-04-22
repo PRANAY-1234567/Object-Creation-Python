@@ -99,3 +99,4 @@ This program helps beginners understand:
 ## 📄 License
 
 This project is open-source and free to use.
+<img width="851" height="746" alt="image" src="https://github.com/user-attachments/assets/f10f5095-d5c1-4517-a098-bb4dbfffda3c" />
